@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am always looking for a Mission to join and grow.
-Passionate About Coding. My expertise is in backend specialised in Django/Fastapi. Have worked as a Full stack Dev from Desktop applications to web apps. Also hold the experience of working on Raspberry pi.
+Passionate About Coding. My expertise is in backend. Have worked as a Full stack Dev from Desktop applications to web apps. Also hold the experience of working on Raspberry pi.
 Good problem-solving skills and ability to perform well in a team. I am a passionate learner. 
 Have delivered many successful projects, I am looking forward to work/collaborate on newer technologies, designing system architecture and taking challenging problems.
 
