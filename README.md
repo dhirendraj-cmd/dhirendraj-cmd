@@ -1,4 +1,13 @@
 ## Hi there 👋
+
+I am always looking for a Mission to join and grow.
+Passionate About Coding. My expertise is in backend specialised in Django/Fastapi. Have worked as a Full stack Dev from Desktop applications to web apps. Also hold the experience of working on Raspberry pi.
+Good problem-solving skills and ability to perform well in a team. I am a passionate learner. 
+Have delivered many successful projects, I am looking forward to work/collaborate on newer technologies, designing system architecture and taking challenging problems.
+
+I am currently exploring Gen-AI and mobile development.
+If you looking to collaborate, mentoring or have any gig for me, please feel free to connect with me on my linkedin --- https://www.linkedin.com/in/djha21/
+
 [![Dhirendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirendraj-cmd&hide=contribs&theme=transparent&show_icons=true)](https://github.com/dhirendraj-cmd/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendraj-cmd&layout=donut)](https://github.com/dhirendraj-cmd/github-readme-stats)
