@@ -6,7 +6,6 @@ Good problem-solving skills and ability to perform well in a team. I am a passio
 Have delivered many successful projects, I am looking forward to work/collaborate on newer technologies, designing system architecture and taking challenging problems.
 
 I am currently exploring Gen-AI and mobile development.
-If you looking to collaborate, mentoring or have any gig for me, please feel free to connect with me on my linkedin --- https://www.linkedin.com/in/djha21/
 
 [![Dhirendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirendraj-cmd&hide=contribs&theme=transparent&show_icons=true)](https://github.com/dhirendraj-cmd/github-readme-stats)
 
