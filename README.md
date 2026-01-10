@@ -5,7 +5,6 @@ Passionate About Coding. My expertise is in backend. Have worked as a Full stack
 Good problem-solving skills and ability to perform well in a team. I am a passionate learner. 
 Have delivered many successful projects, I am looking forward to work/collaborate on newer technologies, designing system architecture and taking challenging problems.
 
-I am currently exploring Gen-AI and mobile development.
 
 [![Dhirendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhirendraj-cmd&hide=contribs&theme=transparent&show_icons=true)](https://github.com/dhirendraj-cmd/github-readme-stats)
 
